@@ -1,0 +1,2 @@
+# New-File
+For JavaScript
